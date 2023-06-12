@@ -5,12 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisgs&label=Profile%20views&color=0e75b6&style=flat" alt="mynameisgs" /> </p>
 
+
+<h3 align="left">👨🏻‍💻 About Me:</h3>
 - 🔭 I’m currently working on [BlastReview](https://github.com/MyNameIsGs/Blast-Review)
-
 - 🌱 I’m currently learning **Unity 🎮**
-
 - 📫 How to reach me **sebascarmun@gmail.com**
-
 - ⚡ Fun fact **I do magic card tricks 🃏✨**
 
 <h3 align="left">❤️ Let's get connected:</h3>
