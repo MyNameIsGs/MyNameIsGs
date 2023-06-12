@@ -7,12 +7,13 @@
 
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
+
 - 🔭 I’m currently working on [BlastReview](https://github.com/MyNameIsGs/Blast-Review)
--
+
 - 🌱 I’m currently learning **Unity 🎮**
--
+
 - 📫 How to reach me **sebascarmun@gmail.com**
--
+
 - ⚡ Fun fact **I do magic card tricks 🃏✨**
 
 <h3 align="left">❤️ Let's get connected:</h3>
